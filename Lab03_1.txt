@@ -1,0 +1,39 @@
+Script started on Mon 25 Feb 2019 10:09:03 PM EST
+]777;notify;Command completed;exit]0;shen.656@cse-std1:~/Lab3]7;file://cse-std1.coeit.osu.edu/home/shen.656/Lab3[?1034h[shen.656@cse-std1 Lab3]$ exit./searchcontacts.sh exit[K./searchcontacts.sh exit[K./searchcontacts.sh exit[K./searchcontacts.sh exit[K./searchcontacts.sh exit[K./createcontacts.sh search[C[C[C[C[C[C[C[C[C[C[C[C[3@nano [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P./[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@nano [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P./[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@nano [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd Lab3ls[Kcd Lab3ls[Knano searchcontacts.sh [3P./[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@nano [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P./[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccreate[C[C[C[C[C[C[C[C[C[C[C[C
+Please select your option
+1) Enter a contact
+2) Show contacts
+3) Exit
+#? 1
+What's your friend's fullname:(first, last)
+Dan,   Shen      Shen
+What's your friend's birth date(dd-mm)?
+^[[A    11-09
+What's your friend's phone number (xxx-yyy-yyyy)
+111-111-1111
+Whats your friend's email?(name@domain.xyz)
+hhh@hhh.com
+Contact info saved!
+]777;notify;Command completed;./createcontacts.sh ]0;shen.656@cse-std1:~/Lab3]7;file://cse-std1.coeit.osu.edu/home/shen.656/Lab3[shen.656@cse-std1 Lab3]$ ./createcontacts.sh exit[K./createcontacts.sh 
+Please select your option
+1) Enter a contact
+2) Show contacts
+3) Exit
+#? 2
+hello,world 11-11 111-222-3333 123@321.com  
+hellp,a 12-21w,a 12-21w,a 12,21
+sa,sa 12-21r,r 12-21
+q,w 02-25 111-111-1111 123@321.com  
+tt,ss 12-02 222 de  
+Daisy,Shen 10-09 111-111-1111 199@109.com  
+Dan, Shen 11-09 111-111-1111 hhh@hhh.com  
+]777;notify;Command completed;./createcontacts.sh ]0;shen.656@cse-std1:~/Lab3]7;file://cse-std1.coeit.osu.edu/home/shen.656/Lab3[shen.656@cse-std1 Lab3]$ ./createcontacts.sh exit[K./searchcontacts.sh exit[K./createcontacts.sh 
+Please select your option
+1) Enter a contact
+2) Show contacts
+3) Exit
+#? 2 3
+]777;notify;Command completed;./createcontacts.sh ]0;shen.656@cse-std1:~/Lab3]7;file://cse-std1.coeit.osu.edu/home/shen.656/Lab3[shen.656@cse-std1 Lab3]$ ./createcontacts.sh [Kexit
+exit
+
+Script done on Mon 25 Feb 2019 10:10:11 PM EST
